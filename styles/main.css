@@ -1,0 +1,35 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+.small-hero {
+    display: flex;
+}
+.jobs {
+    display: flex;
+}
+.values {
+    display: flex;
+}
+.skillset{
+    display: flex;
+}
+.logos {
+    display: flex;
+}
+.social {
+    display: flex;
+}
+.about {
+    display: flex;
+}
+.hobbies {
+    display: flex;
+}
+.contact {
+    display: flex;
+}
+.top {
+    justify-content: space-between;
+    display: flex;
+}
