@@ -5,6 +5,10 @@ nav {
 .small-hero {
     display: flex;
 }
+h1 {
+    display:flex;
+    flex-direction: column;
+}
 .jobs {
     display: flex;
 }
@@ -13,6 +17,7 @@ nav {
 }
 .skillset{
     display: flex;
+
 }
 .logos {
     display: flex;
@@ -23,7 +28,7 @@ nav {
 .about {
     display: flex;
 }
-.hobbies {
+.hobbies .single {
     display: flex;
 }
 .contact {
